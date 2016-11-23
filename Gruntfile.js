@@ -11,8 +11,6 @@ module.exports = function (grunt) {
   // Loading grunt webpack and define paths
   grunt.loadNpmTasks('grunt-webpack');
   var webpackConfig = require('./webpack.config.js');
-  // var DIR_APP = __dirname + '/app/scripts/';
-  // var DIR_BUILD = __dirname + '/app/scripts/build';
 
   // Time how long tasks take. Can help when optimizing build times
   require('time-grunt')(grunt);
