@@ -1,7 +1,7 @@
 # Angular App
 This is a Boilerplate for AngularJS with Webpack 🤘!
 
-AngularJS working with webpack to optimize the maintenance of the development environment.
+AngularJS working with webpack to optimize the maintenance of the development environment. Based on boilerplate generated for [yeoman angular-generator](https://github.com/yeoman/generator-angular)
 
 ## Build & development
 
