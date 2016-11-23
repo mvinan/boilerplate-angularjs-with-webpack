@@ -1,7 +1,7 @@
-# todo-angular
+# Angular App
+This is a Boilerplate for AngularJS with Webpack 🤘!
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.15.1.
+AngularJS working with webpack to optimize the maintenance of the development environment.
 
 ## Build & development
 
