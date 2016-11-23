@@ -1,13 +1,14 @@
 'use strict';
+import angular from 'angular';
 
 /**
  * @ngdoc function
- * @name todoAngularApp.controller:MainCtrl
+ * @name angularApp.controller:MainCtrl
  * @description
  * # MainCtrl
- * Controller of the todoAngularApp
+ * Controller of the angularApp
  */
-angular.module('todoAngularApp')
+angular.module('angularApp')
   .controller('MainCtrl', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',

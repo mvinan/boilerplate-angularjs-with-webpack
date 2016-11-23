@@ -1,4 +1,3 @@
-var webpack = require('webpack');
 var DIR_APP = __dirname + '/app/scripts/';
 var DIR_BUILD = __dirname + '/app/scripts/build';
 
